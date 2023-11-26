@@ -1,2 +1,2 @@
-# crud
-CRUD para o Projeto João
+# CRUD
+## CRUD usando JavaScrip
